@@ -1,3 +1,7 @@
 .vscode
 **/__pycache__
 examples
+pypi_token.token
+build
+dist
+langchain_bytez.egg-info

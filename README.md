@@ -116,6 +116,8 @@ results = bytez_chat_model_phi.invoke(messages)
 
 ```
 
+To roll our own implementation that better suites your needs, check out the implementation [here](https://github.com/Bytez-com/langchain_bytez/blob/main/langchain_bytez/BytezStdOutCallbackHandler.py)
+
 # Shutdown your cluster
 
 ```py

@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="langchain_bytez",  # Name of your package
-    version="0.0.0",
+    version="0.0.5",
     packages=find_packages(),
     description="Bytez langchain integration",
     long_description=open("./README.md").read(),
     long_description_content_type="text/markdown",
     author="Bytez",
-    url="https://github.com/bytez-com/docs",
+    url="https://github.com/Bytez-com/langchain_bytez",
     install_requires=["langchain==0.3.17"],
     classifiers=[
         "Development Status :: 4 - Beta",
